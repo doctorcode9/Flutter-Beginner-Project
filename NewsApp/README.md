@@ -6,7 +6,7 @@ this is a simple News app made in Flutter and using the NewsAPI service.
 
 ## Preview of the App
 
-<table style="width:100%; border:1px solid;">
+<table style="border:1px solid;">
   <tr >
     <th style="text-align: center; border:1px solid;">Main Page</th>
     <th style="text-align: center; border:1px solid;">Detail Page</th>
