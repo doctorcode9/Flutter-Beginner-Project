@@ -13,10 +13,10 @@ this is a simple News app made in Flutter and using the NewsAPI service.
   </tr>
   <tr >
     <td style="text-align: center; border:1px solid;padding:1em;">
-        <img src="Assets/newsapp_main.png">
+        <img width="60%" src="Assets/newsapp_main.png">
     </td>
     <td style="text-align: center; border:1px solid;padding:1em;">
-         <img src="Assets/newsapp_details.png">
+         <img width="60%" src="Assets/newsapp_details.png">
     </td>
   </tr>
   
